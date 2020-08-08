@@ -33,8 +33,8 @@
 
 # 3:SOURCEFILE, DESTDIR
 3:RealisticPowerDraw.version,GameData/RealisticPowerDraw
-3:License.txt,GameData/KerbalHotSeat
-3:README.txt,GameData/KerbalHotSeat
+3:License.txt,GameData/RealisticPowerDraw
+3:README.txt,GameData/RealisticPowerDraw
 
 # 4:SOURCDIR, DESTDIR
 #4:Textures,GameData/ManeuverQueue/Textures
