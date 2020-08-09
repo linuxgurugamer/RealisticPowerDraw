@@ -12,9 +12,8 @@ set GAMEDIR=RealisticPowerDraw
 set GAMEDATA="GameData"
 set VERSIONFILE=%GAMEDIR%.version
 
-copy /Y "%1%2" "%GAMEDATA%\%GAMEDIR%\Plugins"
 copy /Y %VERSIONFILE% %GAMEDATA%\%GAMEDIR%
 
 xcopy /y /s /I %GAMEDATA%\%GAMEDIR% "%H%\GameData\%GAMEDIR%"
 
-rem pause
+pause
