@@ -1,0 +1,67 @@
+The following are the stock parts 
+
+Aero/InflatableHeatShield/HeatShield.cfg
+Command/mk1Cockpits/mk1Cockpit.cfg
+Command/mk1Cockpits/mk1CrewCabin.cfg
+Command/mk1Cockpits/mk1InlineCockpit.cfg
+Command/mk2CockpitInline/mk2CockpitInline.cfg
+Command/mk2CockpitStandard/mk2CockpitStandard.cfg
+Command/mk2LanderCan_v2/mk2LanderCan_v2.cfg
+Engine/jetEngines/jetEngineBasic.cfg
+Engine/jetEngines/jetEngineBig.cfg
+FuelTank/mk3Fuselage/CREW.cfg
+Science/GooExperiment/gooExperiment.cfg
+Science/MaterialBay/materialBay.cfg
+Utility/dockingPortInline/dockingPortInline.cfg
+Utility/dockingPortShielded/dockingPortShielded.cfg
+Utility/GrapplingDevice/part.cfg
+Utility/mk2CargoBay/BayL.cfg
+Utility/mk2CargoBay/BayS.cfg
+Utility/mk2CrewCabin/mk2CrewCabin.cfg
+Utility/mk2DockingPort/mk2DockingPort.cfg
+Utility/mk3CargoBay/long.cfg
+Utility/mk3CargoBay/medium.cfg
+Utility/mk3CargoBay/ramp.cfg
+Utility/mk3CargoBay/short.cfg
+Utility/ServiceBay/ServiceBay_125.cfg
+Utility/ServiceBay/ServiceBay_250.cfg
+Utility/ServiceBay_v2/ServiceBay_125_v2.cfg
+Utility/ServiceBay_v2/ServiceBay_250_v2.cfg
+
+
+and the following is from  MakingHistory:
+
+MakingHistory/Parts/Coupling/InflatableAirlock.cfg
+
+Aero
+	InflatableHeatShield
+
+Command
+	Mark1Cockpit
+	MK1CrewCabin
+	Mark2Cockpit
+	mk2Cockpit_Inline
+	mk2Cockpit_Standard
+	mk2LanderCabin_v2
+	mk3CrewCabin
+
+Science
+	GooExperiment
+	science_module
+
+Utility
+	dockingPortLateral
+	dockingPort1
+	GrapplingDevice
+	mk2CargoBayL
+	mk2CargoBayS
+	mk2CrewCabin
+	mk2DockingPort
+	mk3CargoBayL
+	mk3CargoBayM
+	mk3CargoRamp
+	mk3CargoBayS
+	ServiceBay_125
+	ServiceBay_250
+	ServiceBay_125_v2
+	ServiceBay_250_v2
