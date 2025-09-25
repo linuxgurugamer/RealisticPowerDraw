@@ -1,6 +1,6 @@
 Changelog
 
-0.0.1
+0.0.2
 	Fixed compatibility with Restock
 	Updated version file to use github for new version info
 	
